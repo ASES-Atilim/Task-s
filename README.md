@@ -1,4 +1,4 @@
-# Deneme
+# Task
 Sınıflara ve kişilere göre ayrılmış tasklar ayrı dosyalar içerisindedir.
 
 Ör:
