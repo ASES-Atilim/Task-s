@@ -11,9 +11,9 @@ Kendi sınıfınızın branch'ine girip oradan yaptığınız taskı `push`'lama
 İsterseniz diğer sınıfların tasklarını da denemek için istediğiniz dilde yapabilirsiniz.
 İstediğiniz yazılım dilini ve metodu kullanabilirsiniz.
 
-Süre sınırı 10 gün.
+Süre sınırı tasklar başladıktan sonra 10 gün.
 
-9 Aralık akşamı kontrol edilip feedback verilecektir.
+Kontrol edilip feedback verilecektir.
 İstediğiniz soruyu sorabilirsiniz.
 
 Hiyerarşi
