@@ -24,7 +24,7 @@ Main [Branch]
 |--> Task-1-2 | Task-2-3 [Branch]
       |
       |
-      |---> NameSurname [Dosya Adı]
-                  |--> Task1.`py,js,c,cpp... etc`
+      |---> NameSurname [Klasör Adı]
+                  |--> Task[1, 2, 3, 4, ... etc ]. [py, js, c, cpp, ... etc]
 ```
 
