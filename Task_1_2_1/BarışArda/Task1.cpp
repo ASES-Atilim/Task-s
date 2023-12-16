@@ -11,7 +11,7 @@ double calculate(double *ptra,double *ptrb,double *ptrc){
 	}
 double calc(double &RefA,double &RefB,double &RefC)	
 	{
-		return ((2 *RefA)*(RefA + RefB)+(2* RefC))/(RefA + RefB);
+		return ((2 *refA)*(refA + refB)+(2* refC))/(refA + refB);
 	}
 //değişkenlerin ilk harflerini küçük kullanmaya çalış
 //fonksiyon isimleri anlamsız okuyan kişinin bu fonksiyonun nasıl çalıştığını
@@ -45,4 +45,5 @@ int main(){
 
 
 //bu kodu normal bir insanın açıklayacağı şekilde aşağıda açıkla
-//
+//İki tane fonksiyonumuz var ikiside temelde aynı görevi görüyor, problemde verilen formulü kullanıcının gireceği değerlere göre hesaplıyor.
+//Sonrasında oluşturduğumuz fonksiyonları main fonksiyonuna çağırıyoruz, kullanıcıdan girdileri istiyoruz ve sonuç ekrana yazdırılıyor.
